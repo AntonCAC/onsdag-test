@@ -1,2 +1,3 @@
 # onsdag-test
-Practice : will bw trown away after today
+A repository for Practice : will be thrown away after today
+
